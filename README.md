@@ -5,9 +5,9 @@
 <div align="center">
 <p align="center">
 <a href="https://github.com/atilamariano">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atilamariano&&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atilamariano&layout=compact&langs_count=8&theme=react"/>
-  <img src="https://streak-stats.demolab.com?user=atilamariano&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DanieleCaramanica&&show_icons=true&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanieleCaramanica&layout=compact&langs_count=8&theme=react"/>
+  <img src="https://streak-stats.demolab.com?user=DanieleCaramanica&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
  </a>
 </p>
 </div>
