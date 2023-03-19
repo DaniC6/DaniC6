@@ -1,19 +1,5 @@
 # Hi there , I'm Daniele 👋
 
-## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
-
-
-<div align="center">
-<p align="center">
-<a href="https://github.com/DaniC6">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atilamariano&&show_icons=true&theme=react"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atilamariano&layout=compact&langs_count=8&theme=react"/>
-  <img src="https://streak-stats.demolab.com?user=atilamariano&_border=true&theme=dark&hide_border=true&theme=react" style="width: 95%" />
- </a>
-</p>
-</div>
-
-
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
