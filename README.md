@@ -18,6 +18,7 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+[![](https://visitcount.itsvg.in/api?id=DaniC6&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 
 
