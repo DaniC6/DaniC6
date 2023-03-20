@@ -18,6 +18,8 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniC6&hide_progress=true)](https://github.com/DaniC6/github-readme-stats)
+
 ### Thanks for Visiting my GitHub Profile!
 
 <a href="https://visitcount.itsvg.in">
